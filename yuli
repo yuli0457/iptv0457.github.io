@@ -1,1 +1,9 @@
-
+浙江卫视 ,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+CCTV5 ,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV1 ,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+台视新闻 ,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+湖南卫视 ,http://64.140.167.170:8080/live/ydws5/hls.m3u8
+CCTV5+ ,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV6 ,http://115.199.136.126:8000/rtp/233.50.201.198:5140
+CCTV8 ,http://115.199.136.126:8000/rtp/233.50.201.199:5140
+东方卫视 ,http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
