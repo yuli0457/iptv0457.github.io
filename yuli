@@ -8,3 +8,4 @@ CCTV6 ,http://115.199.136.126:8000/rtp/233.50.201.198:5140
 CCTV8 ,http://115.199.136.126:8000/rtp/233.50.201.199:5140
 东方卫视,http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
 CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV4,http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
