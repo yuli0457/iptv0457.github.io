@@ -18,3 +18,5 @@ NHK WORLD 日本,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK
 ABC NEWS AUSTRLIA,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_43.m3u8
 江苏卫视,http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
 HBO,http://41.205.93.154/HBO/index.m3u8
+CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CGTN央视,http://live.cgtn.com/500/prog_index.m3u8
